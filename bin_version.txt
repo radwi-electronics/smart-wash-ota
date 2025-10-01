@@ -1,2 +1,2 @@
-#Update this version code when new binary file is uploaded (19/5/25)
-1.0
+#Update this version code when new binary file is uploaded (01/10/25)
+2.0
